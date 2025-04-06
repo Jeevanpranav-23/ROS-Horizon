@@ -109,5 +109,8 @@ Realistic Simulation: The rover system check and obstacle avoidance feel like re
 Useful References: Crediting resources shows solid research backing.
 
 #About maze rover competition: the experience which i had is good than i thought how the software built the real time running rover and navigation and all so good and the commands idk what to write in the ubantu so the team members helped what to do thankyou for giving this oppourtunity to me i am very thankfull to all the MaRS Rover team members 
-The file h.py is - Rover Navigation Adjusment 
-The file h2.py is 
+#The file h1.py is - Rover Navigation Adjusment(medium dose ) 
+#The file h2.py is - Message Decoder (medium dose )
+#The file h3.py is - 3D Rotation Conversion(medium dose )
+#The file h4.py is -Rover path planning (hard dose)
+#The file H myscript.sh is - Bash script 1-10 problems (light dose) 
